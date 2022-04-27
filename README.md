@@ -43,7 +43,7 @@
 &nbsp;
 &nbsp;
 
-## 📫 How to reach me:
+## 📫 How to reach me
 <p align="center">
 <a href="https://www.linkedin.com/in/llamagustinfullstackdev/" >
     <img width="4.5%" src="./assets/img/li.png"></a>
@@ -58,9 +58,8 @@
 &nbsp;
 &nbsp;
 
-## 📌 My proyects
-### FullStack Developer - POSH Boutique E-Commerce.
-### FullStack Developer - SPA Countries of the World!
+## 📌 Some screenshots of my proyects:
+### FullStack Developer - POSH Boutique E-Commerce && FullStack Developer - SPA Countries of the World!
 ---
 ![Esta es una imagen](./assets/projects/3.png)
 ![Esta es una imagen](./assets/projects/4.png)
