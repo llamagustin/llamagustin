@@ -43,7 +43,7 @@
 
 ## 📫 How to reach me
 <p align="center">
-<a href="https://www.linkedin.com/in/llamagustinfullstackdev/" >
+<a href="https://www.linkedin.com/in/llamagustin/" >
     <img width="4.5%" src="./assets/img/li.png"></a>
     &nbsp;&nbsp;&nbsp;
 <a href="https://wa.me/543854409310" >
