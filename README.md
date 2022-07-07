@@ -56,8 +56,6 @@
 &nbsp;
 &nbsp;
 
-[![Llamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=llamagustin)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📌 Some screenshots of my proyects:
 ### FullStack Developer - POSH Boutique E-Commerce && FullStack Developer - SPA Countries of the World!
 ---
